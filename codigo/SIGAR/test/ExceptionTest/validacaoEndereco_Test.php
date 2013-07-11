@@ -4,7 +4,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoEndereco.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoEndereco.php';
 
 /**
  * Description of validacaoEndereco_Test

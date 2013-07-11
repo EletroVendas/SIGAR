@@ -4,12 +4,12 @@
  *
  * @author Matheus
  */
-require_once "C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php";
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/dao/ProfessorDAO.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Pessoa.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/User.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Professor.class.php';
+require_once "/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php";
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/ProfessorDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Pessoa.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/User.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Professor.class.php';
 
 class DAOSalvarProfessor_TEst extends PHPUnit_Framework_TestCase{
     

@@ -55,7 +55,7 @@
     	<img src="img/logo.png" alt="SIGAR" />
     	<p>Sistema Gerenciador de Aulas de Reforço</p>
     </div>
-    <form id="login" action="login.php" method="POST">
+    <form id="login" action="Login.php" method="POST">
     	<input id="userName" class="campo" type="text" value="Usuário" name="login"/>
     	<input id="passWord" class="campo" type="password" value="Senha" name="senha"/>
 		<input type="submit" name="enviar" value="" id="entrar"/>

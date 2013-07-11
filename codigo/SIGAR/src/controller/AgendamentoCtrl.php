@@ -1,8 +1,8 @@
 <?php
 
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Agendamento.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/DAO/AgendamentoDAO.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/DAO/DisponibilidadeDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Agendamento.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/AgendamentoDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/DisponibilidadeDAO.php';
 
 /*
  * To change this template, choose Tools | Templates

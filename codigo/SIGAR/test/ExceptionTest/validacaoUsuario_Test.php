@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoUsuario.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoUsuario.php';
 
 /**
  * Description of validacaoUsuario_Test

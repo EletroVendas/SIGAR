@@ -1,6 +1,6 @@
 <?php
 
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/DAO/ValidacaoDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/validacaoDAO.php';
 
 class validacaoPessoa {
     protected $_res_nome;

@@ -7,8 +7,8 @@
 //$url = $_SERVER['DOCUMENT_ROOT'] . "/SIGAR/codigo/SIGAR/src";
 //require_once $url.'/utils/Login.class.php';
 
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/utils/Login.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/utils/Conexao.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/utils/Login.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/utils/Conexao.class.php';
 
 /**
  * Description of Login_test

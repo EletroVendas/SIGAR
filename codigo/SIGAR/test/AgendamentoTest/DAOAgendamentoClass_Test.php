@@ -1,5 +1,5 @@
 <?php
-require_once "C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Agendamento.class.php";
+require_once "/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Agendamento.class.php";
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.

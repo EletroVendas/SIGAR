@@ -1,6 +1,6 @@
 <?php
 
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/DAO/EmailDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/EmailDAO.php';
 
 class EmailCtrl {
     

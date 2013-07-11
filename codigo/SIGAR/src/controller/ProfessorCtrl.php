@@ -1,15 +1,15 @@
 <?php
 
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/DAO/ProfessorDAO.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/DAO/DisponibilidadeDAO.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Pessoa.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Responsavel.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Professor.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/User.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/ValidacaoProfessor.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/ValidacaoEndereco.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/ValidacaoPessoa.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/ProfessorDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/DisponibilidadeDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Pessoa.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Responsavel.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Professor.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/User.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoProfessor.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoEndereco.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoPessoa.php';
 
 /**
  * author Matheus 

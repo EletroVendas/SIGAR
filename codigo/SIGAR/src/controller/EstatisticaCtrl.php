@@ -1,6 +1,6 @@
 <?php
 
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/dao/EstatisticaDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/EstatisticaDAO.php';
 
 /*
  * To change this template, choose Tools | Templates

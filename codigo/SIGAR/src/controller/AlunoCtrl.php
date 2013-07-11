@@ -1,13 +1,13 @@
 <?php
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/DAO/AlunoDAO.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Aluno.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Pessoa.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/Responsavel.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/model/User.class.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/ValidacaoAluno.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/ValidacaoEndereco.php';
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/exception/ValidacaoPessoa.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/dao/AlunoDAO.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Aluno.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Endereco.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Pessoa.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/Responsavel.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/model/User.class.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoAluno.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoEndereco.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/exception/validacaoPessoa.php';
        
 class AlunoCrtl {
 

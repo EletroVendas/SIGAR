@@ -1,6 +1,6 @@
 <?php
 
-require_once "C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/utils/Conexao.class.php";
+require_once "/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/utils/Conexao.class.php";
 
 class EmailDAO {
     protected $_obj_conecta;

@@ -1,5 +1,5 @@
 <?php
-require_once 'C:/xampp/htdocs/SIGAR/codigo/SIGAR/src/controller/EmailCtrl.php';
+require_once '/opt/lampp/htdocs/SIGAR/codigo/SIGAR/src/controller/EmailCtrl.php';
 
 /*
  * To change this template, choose Tools | Templates
