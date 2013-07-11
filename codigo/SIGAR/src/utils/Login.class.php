@@ -7,8 +7,7 @@ class Login
 	protected $_login;
 	protected $_senha;
 	protected $_resposta;
-
-	// M�todo construtor - executado sempre e antes de tudo.
+        
 	public function __construct()
 	{
 		$this->_idUsuario  = 0;
@@ -17,7 +16,6 @@ class Login
 		$this->_resposta = null;
 	}
 
-	//M�todo para autenticar/verificar login do usu�rio no sistema
 	public function autentica()
 	{
 		//Verificando os valores no banco

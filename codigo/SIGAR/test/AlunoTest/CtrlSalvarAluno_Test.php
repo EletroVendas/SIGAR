@@ -65,6 +65,7 @@ class CtrlSalvarAluno_Test extends PHPUnit_Framework_TestCase{
     public function testeCtrlSalvar(){
         echo $this->retorno;
         $this->assertEquals("Cadastro efetuado com sucesso!", $this->retorno);
+        $this->assertTrue(true);
     }
 }
 ?>
